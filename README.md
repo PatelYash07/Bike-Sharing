@@ -13,3 +13,10 @@
 
 - Develop a model to find the variables which are significant the demand for shared bikes with the available independent variables.
 - It will be used by the management to understand and manipulate the business strategy to meet the demand levels and meet the customer's expectations.
+
+<h3> The comapany should focus on the following features:</h3>
+
+1. Company should focus on expanding business during Spring.
+2. Company should focus on expanding business during September.
+3. Based on previous data it is expected to have a boom in number of users once situation comes back to normal, compared to 2019.
+4. There would be less bookings during Light Snow or Rain, they could probably use this time to serive the bikes without having business impact. Hence when the situation comes back to normal, the company should come up with new offers during spring when the weather is pleasant and also advertise a little for September as this is when business would be at its best.
